@@ -1,5 +1,5 @@
 <?php
-	$api = "http://104.155.206.199:4001/v2/";
+	$api = "http://127.0.0.1:4001/v2/";
 	if($_GET["etcd"]!="")
 		$api = $_GET["etcd"];
 	header('Content-Type: application/json; charset=utf-8');
