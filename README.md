@@ -3,6 +3,7 @@
   
   It can help you to set up etcd.
   
+ ![alt tag](https://github.com/matishsiao/etcdconsole/blob/master/images/screenshot_connected.png)
   
 ## Version:
 
@@ -10,13 +11,19 @@ version:0.1
 
 ## Futures
 
-connect diffent etcd clusters 
+connect different etcd clusters 
+![alt tag](https://github.com/matishsiao/etcdconsole/blob/master/images/screenshot_connect.png)
 
 create key with value or directory value
+![alt tag](https://github.com/matishsiao/etcdconsole/blob/master/images/screenshot_additem.png)
 
-update etcd value
+Update etcd value
 
-delete etcd keys
+Delete etcd keys
+
+Quickly to jump key directory
+
+Fall back to history directory
 
   
 ## Install:
