@@ -1,7 +1,7 @@
 # Introduction:
   etcdconsole is web-base etcd editor useing php and javascript
   
-  It can help you to set up etcd configruation or quickly view configuration.
+  It can help you to set up etcd configuration or quickly view configuration.
   
  ![alt tag](https://github.com/matishsiao/etcdconsole/blob/master/images/screenshot_connected.png)
   
