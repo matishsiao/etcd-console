@@ -33,4 +33,5 @@ Fall back to history directory
 ```
 
 ##License and Copyright
-This software is Copyright 2012-2014 Matis Hsiao.
+  etcd-console is under the Apache 2.0 license.
+  Power by Matis Hsiao.
