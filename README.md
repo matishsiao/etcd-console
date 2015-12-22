@@ -1,5 +1,5 @@
 # Introduction:
-  etcdconsole is web-base etcd editor useing php and javascript
+  etcdconsole is web-base etcd editor using php and javascript
   
   It can help you to set up etcd configuration or quickly view configuration.
   
